@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Lancelot\\Desktop\\webcam-capture-0.3.10-dist\\webcam-capture-0.3.10.jar",
+        "c:\\Users\\Lancelot\\Desktop\\slf4j.jar\\slf4j.jar"
+    ]
+}
